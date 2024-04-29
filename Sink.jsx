@@ -6,4 +6,4 @@ const Sink = (props) => {
   );
 }
 
-export default Sink;
+export default Sink

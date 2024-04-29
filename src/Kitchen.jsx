@@ -7,7 +7,6 @@ const Kitchen = (props) => {
       Kitchen
       <Oven />
       <Sink />
-  
     </div>
   );
 }

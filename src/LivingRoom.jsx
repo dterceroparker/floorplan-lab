@@ -6,4 +6,4 @@ const LivingRoom = (props) => {
   );
 }
 
-export default LivingRoom;
+export default LivingRoom
